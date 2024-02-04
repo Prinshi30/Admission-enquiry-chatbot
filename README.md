@@ -1,6 +1,5 @@
 # admission-enquiry-chat-bot
    Welcome to our Admission-Enquiry Chatbot, your personalized guide to all things related to admissions! Whether you're a prospective student, parent, or guardian, our chatbot is here to provide you with instant and accurate information about our institution and the admission process.
-
 ## SOFTWARE REQUIREMENTS
 
 <ul type="square">
