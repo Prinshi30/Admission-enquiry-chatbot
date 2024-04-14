@@ -48,7 +48,6 @@
   </ul>
 <br>
 
-
 ## Screenshot-
 
 ![image](https://github.com/Prinshi30/Admission-enquiry-chatbot/blob/159df8b13e38e62fc329a82a91245b8dc8d0ebd8/register.png)
